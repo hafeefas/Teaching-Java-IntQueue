@@ -37,6 +37,7 @@ public class IntQueue{
 	public int dequeue(){
 		return list.remove(0);
      //This line defines a method named dequeue() which removes and returns the first element in the queue.
+     //Therefore, it returns the element that was deleted from the queue, not the new element that became the first element.
 		}
     
 	public int peek(){

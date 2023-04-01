@@ -58,7 +58,7 @@ public class IntQueue{
 			}
 			else{
 				return false;
-        }
+        		}
 		}
     //This line defines a method named equals() which checks if two IntQueue objects are equal or not. 
     // It first checks if the object being passed as argument is an instance of IntQueue. If it is, 

@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class IntQueue{
 	ArrayList <Integer> list;
       // This line declares an instance variable named "list" of type ArrayList<Integer> which will be used to represent the queue.
+	
 	public IntQueue(){
 		list = new ArrayList <>();
       // This line creates a constructor for the IntQueue class which creates a new ArrayList object to represent the queue.
